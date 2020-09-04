@@ -1,4 +1,4 @@
-# Milkbox Kids
+# 404 Child Not Found
 
 One Paragraph of project description goes here
 
@@ -8,9 +8,9 @@ Explain how other devs use this on their websites.
 
 ## Built With
 
-- [React](https://reactjs.org/) - JavaScript Framework
+- [React](https://reactjs.org/) - JavaScript framework
 - [styled-components](https://styled-components.com/) - JSX/CSS styling
-- [rssConverter](https://github.com/morx3x/rssConverter) - RSS parser
+- [rssConverter](https://github.com/morx3x/rssConverter) - Converts and parses to JSON
 
 ## License
 
@@ -18,4 +18,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Thanks too everyone who showed support for this idea [on my post](https://www.linkedin.com/posts/superhackerman_404-child-not-found-im-going-to-change-activity-6705515416464216064-4-P0)
+- Thanks to everyone who showed support for this idea [on my post](https://www.linkedin.com/posts/superhackerman_404-child-not-found-im-going-to-change-activity-6705515416464216064-4-P0)
